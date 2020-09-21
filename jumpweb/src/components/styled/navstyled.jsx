@@ -9,10 +9,10 @@ width: 50%;
 a{
     padding: 2%;
     text-decoration: none;
-    color: white;
+    color: black;
 }
 a:hover{
-    color: dodgerblue;
+    color: white;
 }
 `
 export default Navstyle
