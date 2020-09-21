@@ -9,7 +9,7 @@ align-items: center;
 #title{
     width: 35%;
     color: black;
-    padding: 4%;
+    padding: 2%;
     padding-top: 0;
     display: flex;
     flex-direction: column;
@@ -19,10 +19,10 @@ align-items: center;
     font-size: 1vw;
 }
 h1{
-    font-size: 5vw;
+    font-size: 4vw;
 }
 .logoimg{
-    width: 50%;
+    width: 35%;
 }
 .logo{
     width: 100%;
