@@ -10,15 +10,16 @@ align-items: center;
     width: 35%;
     color: black;
     padding: 4%;
+    padding-top: 0;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 #subtitle{
-    font-size: 2vw;
+    font-size: 1vw;
 }
 h1{
-    font-size: 7vw;
+    font-size: 5vw;
 }
 .logoimg{
     width: 50%;

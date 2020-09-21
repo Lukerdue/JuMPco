@@ -1,11 +1,10 @@
 import React from 'react';
 import './App.css';
-import Headerhero from './components/homepage/headerhero'
-
+import Homepage from './components/homepage/homepage'
 function App() {
   return (
     <div className="App">
-        <Headerhero/>
+        <Homepage/>
     </div>
   );
 }
