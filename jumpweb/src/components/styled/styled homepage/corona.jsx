@@ -18,11 +18,11 @@ p{
     width: 80%;
     padding: 4%;
     padding-top: 0;
-    font-size: 1.5vw;
+    font-size: 1.2vw;
 }
 h2{
     padding: 1%;
-    font-size: 3vw;
+    font-size: 2.5vw;
 }
 h4{
     font-size: 2vw;
