@@ -53,3 +53,17 @@ table {
 	background-size: cover;
 	background-position-y: 20px;
 }
+/*Adding fonts*/
+p{
+	font-family: 'Montserrat', sans-serif;
+}
+h1{
+	font-family: 'Limelight', cursive;
+}
+h2, h3, h4, h5, h6{
+	font-family: 'Josefin Sans', sans-serif;
+	text-align: center;
+}
+nav{
+	font-family: 'Montserrat', sans-serif;
+}
