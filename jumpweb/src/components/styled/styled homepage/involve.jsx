@@ -1,7 +1,7 @@
-import React from "react";
+import React from 'react';
 import styled from 'styled-components';
 
-const Coronastyled = styled.div`
+const Involvestyled = styled.div`
 width: 65%;
 display: flex;
 flex-direction: column;
@@ -9,11 +9,6 @@ align-items: center;
 justify-content: center;
 border-bottom: 5px double #5165AE;
 margin-bottom: 1%;
-img{
-    margin: 4%;
-    border-radius: 15px;
-    width: 50%;
-}
 p{
     width: 80%;
     padding: 4%;
@@ -28,5 +23,4 @@ h4{
     font-size: 2vw;
 }
 `
-
-export default Coronastyled
+export default Involvestyled;

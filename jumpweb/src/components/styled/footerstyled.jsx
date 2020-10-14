@@ -14,7 +14,7 @@ h4{
     color: gray
 }
 h4:hover{
-    color:
+    color: white;
 }
 p{
     width: 30%;
