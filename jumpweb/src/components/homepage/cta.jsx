@@ -7,8 +7,7 @@ export default function Cta (){
             <div className="right">
                 <p>Jump company is an amazing oportunity for youth in our community
                     to join a top tier junior musical performance company in the magic valley! We produce two musicals a year
-                    with opportunities for everyone. And, being hosted at the downtown Orpheum
-                    theatre means getting a first-hand look into a gorgeous historic theatrical experience.
+                    with opportunities for everyone grades 2-12.
                 </p>
                 <button className="ctabutton">Schedule your Audition!</button>
             </div>
