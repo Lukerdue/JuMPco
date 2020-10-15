@@ -14,7 +14,7 @@ justify-content: center;
     align-items: center;
     background-color: rgb(207, 152, 147, .6);
     color: black;
-    font-size: 1.5vw;
+    font-size: 1.35vw;
 }
 img{
     width: 100%;

@@ -7,7 +7,6 @@ display: flex;
 flex-direction: column;
 align-items: center;
 justify-content: center;
-border-bottom: 5px double #5165AE;
 margin-bottom: 1%;
 p{
     width: 80%;
