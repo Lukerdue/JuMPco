@@ -5,6 +5,7 @@ const Ctastyled = styled.div`
 display: flex;
 align-items: center;
 justify-content: center;
+background-color: #091029;
 .right{
     padding: 5%;
     width: 40%;
