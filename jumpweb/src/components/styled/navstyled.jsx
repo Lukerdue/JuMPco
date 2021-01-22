@@ -9,10 +9,10 @@ width: 50%;
 a{
     padding: 2%;
     text-decoration: none;
-    color: black;
+    color: white;
 }
 a:hover{
-    color: white;
+    color: gold;
 }
 `
 export default Navstyle

@@ -12,8 +12,8 @@ justify-content: center;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: rgb(207, 152, 147, .6);
-    color: black;
+    background-color: rgb(9, 16, 41, .7);
+    color: white;
     font-size: 1.35vw;
 }
 img{
@@ -21,17 +21,16 @@ img{
     border-radius: 50px;
 }
 button{
-    border: 2px solid #5165AE;
+    border: none;
     border-radius: 5px;
-    color: #5165AE;
+    color: white;
     margin-top: 7%;
-    background-color: white;
+    background: linear-gradient(to left, #091029, #5165AE);
     padding: 2% 3%;
     width: 60%;
 }
 button:hover{
-    border-color: #b86861;
-    color: #b86861;
+    background: #5165AE;
 }
 `
 export default Ctastyled;

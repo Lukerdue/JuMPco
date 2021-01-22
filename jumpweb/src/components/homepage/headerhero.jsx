@@ -5,12 +5,7 @@ import Hero from '../styled/herostyled'
 export default function Headerhero (){
     return(
         <Hero className = "hero">
-            <div className="logo">
-                <div className="logoimg">
-                    <img src={require('../../img/logo.jpg')} alt="jump company logo"/>
-                </div>
                 <Nav/>
-            </div>
             <div id="title">
                 <h1>JuMP Co.</h1>
                 <div id="subtitle">
