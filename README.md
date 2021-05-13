@@ -1,3 +1,7 @@
+# THIS REPO IS ARCHIVED
+## see the current project [here](http://github.com/JumpCompany)
+
+
 This project was created using creat-react-app.
 
 This project is a side/personal project I'm going to donate to my local youth theatre company when it's finished.
